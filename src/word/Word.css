@@ -1,0 +1,10 @@
+.word {
+    cursor: pointer;
+    padding: 2px 3px;
+    border-radius: 5px;
+    margin-left: 2px;
+}
+
+.punctuation {
+    padding: 2px 0;
+}

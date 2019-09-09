@@ -1,0 +1,28 @@
+#file-zone {
+    background-color:#f1f0f0;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 5px;
+}
+
+#file {
+    background-color: #fff;
+    border: 1px solid #e4dede;
+    padding: 20px;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+
+#synonyms {
+    padding: 20px;
+    display: inline-block;
+}
+
+.syn {
+    padding: 1px;
+    cursor: pointer;
+}
